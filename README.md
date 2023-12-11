@@ -26,9 +26,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </div>
 
-<h3>✌ Most Used Languages :</h3>
+<!--<h3>✌ Most Used Languages :</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria0908)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria0908)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ---
 
