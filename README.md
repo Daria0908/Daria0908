@@ -4,7 +4,7 @@
 
 <img src='https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif' alt='cat programming software gif'/>
 
-<p>💻 I’m currently working onTypeScript, ReactJS, MobX)</p>
+<p>💻 I’m currently working on TypeScript, ReactJS, MobX)</p>
 <p>👩‍🎓 I’m currently learning WebSocket, Node.js and improving TypeScript, ReactJS</p>
 <p>💬 Ask me about board games, swimming, hiking</p>
 <p>⚡ Fun fact: </p>
